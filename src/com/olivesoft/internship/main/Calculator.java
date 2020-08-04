@@ -1,4 +1,4 @@
-package main;
+package com.olivesoft.internship.main;  
 
 public interface Calculator {
 	
